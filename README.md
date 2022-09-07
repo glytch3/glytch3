@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Glytch</h1>
+<h1 align="center">Hi 👋, I'm Afnan</h1>
 <h3 align="center">A IT Undergrad at MIT Manipal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glytch3&label=Profile%20views&color=0e75b6&style=flat" alt="glytch3" /> </p>
