@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afnan</h1>
 <h3 align="center">A IT Undergrad at MIT Manipal</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glytch3&label=Profile%20Views&color=8d85ff&style=flat-square" alt="glytch3" /> </p>
 
 <h3 align="left">Connect with me:</h3>
