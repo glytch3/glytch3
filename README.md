@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glytch3&theme=default" alt="glytch3" /></p>
 
-![github]([https://cloud.githubusercontent.com/assets/17016297/18681463/da12c5c2-7f2d-11e6-8c53-4cb2e8914b3a.jpg](https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76111aa5de3bd8acc505b122f418aa6471c97ddfc69f&rid=giphy.gif&ct=s" align="right" alt="Coding" width="400" height="400"))
+![img_4286a-350x233]("https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76111aa5de3bd8acc505b122f418aa6471c97ddfc69f&rid=giphy.gif&ct=s")
