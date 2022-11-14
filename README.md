@@ -18,4 +18,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glytch3&theme=default" alt="glytch3" /></p>
 
-![img_4286a-350x233]("https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76111aa5de3bd8acc505b122f418aa6471c97ddfc69f&rid=giphy.gif&ct=s")
+![img_4286a-350x233](https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
