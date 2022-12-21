@@ -1,7 +1,7 @@
 
 <img src="https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=790b76111aa5de3bd8acc505b122f418aa6471c97ddfc69f&rid=giphy.gif&ct=s" align="right" alt="Coding" width="400" height="400" />
 
-<h1 align="center">Hi 👋, I'm Afnan</h1>
+<h1 align="center">hi 👋, i'm afnan</h1>
 <h3 align="center">An IT Undergrad at MIT Manipal</h3>
 
 <h3 align="left">Connect with me:</h3>
