@@ -23,4 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glytch3&theme=default" alt="glytch3" /></p>
 
 <!-- <img src="https://moe-counter.glitch.me/get/@glytch3" alt="profile view counter"/> -->
-- ![img_4286a-350x233](https://media3.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
