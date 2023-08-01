@@ -3,6 +3,7 @@
 
 <h1 align="center">hi 👋, i'm afnan</h1>
 <h3 align="center">An IT Undergrad at MIT Manipal</h3>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rokkitt&duration=6000&pause=7000&color=FFFF00&width=435&lines=My+code+is+the+work+of+a+stand+user.+But+I'm+not+telling+you+which+one.;IT+Undergrad+at+MIT+Manipal)](https://git.io/typing-svg) -->
 
 <!-- 
 <h3 align="center">Connect with me:</h3>
