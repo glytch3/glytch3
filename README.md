@@ -21,8 +21,20 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=glytch3&show_icons=true&title_color=ffea00&locale=en" alt="glytch3" /></p>
+<!-- streak -->
+<div align="center">
+  <h2>Streak</h2>
+  <div>
+    <img src="https://streak-stats.demolab.com?user=glytch3&theme=dark&border_radius=5&stroke=999999&border=999999&background=0d1117">
+  </div>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=glytch3&theme=default" alt="glytch3" /></p>
+<!-- github stats -->
+<div align="center">
+  <h2>Statistics</h2>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=glytch3&show_icons=true&title_color=ffea00&locale=en&theme=dark" alt="glytch3" />
+  </div>
+</div>
 
 <!-- <img src="https://moe-counter.glitch.me/get/@glytch3" alt="profile view counter"/> -->
